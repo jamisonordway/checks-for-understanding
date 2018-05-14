@@ -14,6 +14,7 @@ ActiveRecord is an ORM. It allows us to easily interact with our database.
 
 2. Assume you have the following model:
 
+
 ```ruby
 class Team << ActiveRecord::Base
 end
